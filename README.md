@@ -1,72 +1,23 @@
-<div align="center">
+# Welcome to my GitHub <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" />
 
-# Glamgar
+I'm **Glamgar**, a passionate fullstack student developer from **France** <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Flags/Flag%20France.webp" alt="France" width="25" height="25" />. I love creating things for the web, from clean and responsive frontends to solid backends. I'm constantly improving and always looking for new challenges to tackle.
 
-**Fullstack developer · France**
+## What I'm working on? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="25" height="25" />
 
-[![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/glamgar)
-[![PayPal](https://img.shields.io/badge/Donate-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/glamgar)
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> Currently deepening my skills in **Next.js** — exploring server components, advanced routing and full-stack features to build modern and performant web applications.
 
-</div>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Also leveling up my **PHP** backend skills, building robust APIs and server-side logic to power real-world projects.
 
----
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> I enjoy experimenting with UI ideas and sharing them on [CodePen](https://codepen.io/glamgar) — feel free to check it out!
 
-### 🧑‍💻 About me
+## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
 
-Passionate fullstack student developer building things for the web.  
-Currently deepening my skills in **Next.js** and **PHP**.
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,php,nextjs,nodejs,express,django,mysql,firebase,vercel,netlify,postman,figma,canva,notion,git,github&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,php,nextjs,nodejs,express,django,mysql,firebase,vercel,netlify,postman,figma,canva,notion,git,github&theme=light)](https://skillicons.dev#gh-light-mode-only)
 
----
+## How to contact me? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Envelope" width="25" height="25" />
 
-### 💻 Tech Stack
-
-**Languages**  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-
-**Frameworks & Runtime**  
-![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white)
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-
-**Databases**  
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-
-**Deployment**  
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Replit](https://img.shields.io/badge/replit-%23000000.svg?style=for-the-badge&logo=replit&logoColor=white)
-
-**Tools**  
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=glamgarondiscord&show_icons=true&theme=dark&locale=en&layout=compact)
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=glamgarondiscord&show_icons=true&theme=dark&locale=en&hide_border=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=glamgarondiscord&theme=dark&hide_border=true)
-
-</div>
-
----
-
-<div align="center">
-
-[![Visit count](https://visitcount.itsvg.in/api?id=glamgar&icon=5&color=3)](https://visitcount.itsvg.in)
-
-</div>
+Feel free to reach out on the following platforms:
+- [CodePen](https://codepen.io/glamgar)
+- [Discord](https://discord.com/) (`@glamgar`)
+- [PayPal](https://paypal.me/glamgar) — if you want to support my work <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Blue%20Heart.webp" alt="Blue Heart" width="20" height="20" />
