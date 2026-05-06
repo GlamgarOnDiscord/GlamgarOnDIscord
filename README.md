@@ -12,7 +12,7 @@ I'm **Glamgar**, a passionate fullstack student developer from **France** <img s
 
 ## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,php,nextjs,nodejs,express,django,mysql,firebase,vercel,netlify,postman,figma,canva,notion,git,github&theme=dark)](https://skillicons.dev#gh-dark-mode-only)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,php,nextjs,nodejs,express,django,mysql,firebase,vercel,netlify,postman,figma,canva,notion,git,github&theme=dark#gh-dark-mode-only)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,py,php,nextjs,nodejs,express,django,mysql,firebase,vercel,netlify,postman,figma,canva,notion,git,github&theme=light)](https://skillicons.dev#gh-light-mode-only)
 
 ## How to contact me? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Incoming%20Envelope.webp" alt="Envelope" width="25" height="25" />
