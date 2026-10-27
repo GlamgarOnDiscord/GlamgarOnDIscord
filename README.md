@@ -4,11 +4,22 @@ I'm **Glamgar**, a **BTS SIO SISR** student from **France** <img src="https://ra
 
 ## What I'm working on? <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Briefcase.webp" alt="Briefcase" width="25" height="25" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Clapper%20Board.webp" alt="Clapper Board" width="25" height="25" /> Building **[Scenivia](https://scenivia.com)**, an AI tool that turns a SaaS website or launch idea into a motion design launch video: an editable storyboard, scene by scene, exported as MP4.
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Clapper%20Board.webp" alt="Clapper Board" width="25" height="25" /> Founder of **[Scenivia](https://scenivia.com)**, an AI tool that turns a SaaS website or launch idea into a motion design launch video: an editable storyboard, scene by scene, exported as MP4.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Getting hands-on with **Cisco networking**: VLANs, trunking, static routing, VTP and Spanning Tree.
 
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Penguin.webp" alt="Penguin" width="25" height="25" /> Deploying **Linux services** on Rocky Linux: DNS with BIND, DHCP, SSH and remote administration.
+
+## Featured Projects <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" />
+
+<p>
+  <a href="https://github.com/GlamgarOnDiscord/athlya"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlamgarOnDiscord&repo=athlya&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="athlya" width="49%" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlamgarOnDiscord&repo=athlya&hide_border=true&theme=default#gh-light-mode-only" alt="athlya" width="49%" /></a>
+  <a href="https://github.com/GlamgarOnDiscord/parity-agent"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlamgarOnDiscord&repo=parity-agent&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="parity-agent" width="49%" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlamgarOnDiscord&repo=parity-agent&hide_border=true&theme=default#gh-light-mode-only" alt="parity-agent" width="49%" /></a>
+  <a href="https://github.com/GlamgarOnDiscord/claude-saas-blueprint"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlamgarOnDiscord&repo=claude-saas-blueprint&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="claude-saas-blueprint" width="49%" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlamgarOnDiscord&repo=claude-saas-blueprint&hide_border=true&theme=default#gh-light-mode-only" alt="claude-saas-blueprint" width="49%" /></a>
+  <a href="https://github.com/GlamgarOnDiscord/claude-security-skills"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlamgarOnDiscord&repo=claude-security-skills&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="claude-security-skills" width="49%" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlamgarOnDiscord&repo=claude-security-skills&hide_border=true&theme=default#gh-light-mode-only" alt="claude-security-skills" width="49%" /></a>
+  <a href="https://github.com/GlamgarOnDiscord/uxui-AI-Prompt"><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlamgarOnDiscord&repo=uxui-AI-Prompt&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="uxui-AI-Prompt" width="49%" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=GlamgarOnDiscord&repo=uxui-AI-Prompt&hide_border=true&theme=default#gh-light-mode-only" alt="uxui-AI-Prompt" width="49%" /></a>
+  <a href="https://github.com/Scenivia/claude-plugin"><img src="https://github-readme-stats.vercel.app/api/pin/?username=Scenivia&repo=claude-plugin&hide_border=true&theme=github_dark#gh-dark-mode-only" alt="claude-plugin" width="49%" /><img src="https://github-readme-stats.vercel.app/api/pin/?username=Scenivia&repo=claude-plugin&hide_border=true&theme=default#gh-light-mode-only" alt="claude-plugin" width="49%" /></a>
+</p>
 
 ## Tech Stack <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" />
 
